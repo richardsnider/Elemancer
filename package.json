@@ -1,0 +1,28 @@
+{
+  "name": "Elemancer",
+  "version": "0.0.1",
+  "scripts": {
+	"start": "nodejs server.js",
+	"test": "karmawhatever test --somecommand"
+	},
+  "description": "A Javascript framework for creating elements in javascript.",
+  "main": "elemancer.js",
+  "dependencies": {
+    "mongoose": "~4.0.4",
+    "express": "~4.12.4",
+    "bower": "~1.4.1",
+    "karma": "~0.12.35",
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://richardsnider@bitbucket.org/richardsnider/elemancer.git"
+  },
+  "author": "Richard Snider",
+  "license": "BSD-2-Clause"
+}
