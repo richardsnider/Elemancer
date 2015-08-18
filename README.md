@@ -16,4 +16,3 @@ Elemancer is a javascript framework for creating/controlling custom html element
 
 * Richard Snider
 * Email: richardnsnider@gmail.com
-* Phone: 209-814-1077
